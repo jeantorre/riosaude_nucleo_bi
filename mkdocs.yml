@@ -5,9 +5,14 @@ copyright: "© 2024 | Desenvolvido pela Inteligência de Negócios da RioSaúde"
 nav:
   - Sobre Nós: index.md
 
+extra_css:
+  - css/extra.css
+  - css/custom.css
+
 theme:
   name: material
   language: pt-BR
+  logo: src/logo-riosaude-horizontal-monocromatico.png
 
 plugins:
   - mermaid2

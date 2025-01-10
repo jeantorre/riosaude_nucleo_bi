@@ -1,4 +1,4 @@
-# Transformamos dados em decisões na saúde pública da cidade do Rio de Janeiro
+# Transformando dados em decisões na saúde pública da cidade do Rio de Janeiro
 
 ## Sobre Nós
 Somos o Núcleo de Inteligência de Negócios da DGOVI (Diretoria de Governança e Tecnologia da Informação), uma equipe dedicada a transformar dados em informações estratégicas que aprimoram a gestão e os serviços de saúde.  
