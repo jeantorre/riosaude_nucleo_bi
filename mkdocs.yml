@@ -1,9 +1,9 @@
 site_name: Núcleo de Inteligência de Negócios da RioSaúde
 site_author: Inteligência de Negócios da RioSaúde
-copyright: "© 2024 | Desenvolvido pela Inteligência de Negócios da RioSaúde
+copyright: "© 2024 | Desenvolvido pela Inteligência de Negócios da RioSaúde"
 
 nav:
-  - Home: about.md
+  - Sobre Nós: index.md
 
 theme:
   name: material
