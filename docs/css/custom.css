@@ -1,0 +1,19 @@
+h1 {
+    color: #11345a !important;
+    font-size: 2.5em;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold !important;
+}
+
+h2 {
+    color: #11345a;
+    font-size: 2em;
+    text-align: left;
+}
+
+body {
+    color: #11345a;
+    font-size: 1.5em;
+    text-align: justify;
+}
