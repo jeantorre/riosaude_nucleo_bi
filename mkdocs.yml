@@ -1,0 +1,16 @@
+site_name: Núcleo de Inteligência de Negócios da RioSaúde
+site_author: Inteligência de Negócios da RioSaúde
+copyright: "© 2024 | Desenvolvido pela Inteligência de Negócios da RioSaúde
+
+nav:
+  - Home: about.md
+
+theme:
+  name: material
+  language: pt-BR
+
+plugins:
+  - mermaid2
+  - mkdocstrings
+
+repo_url: https://github.com/jeantorre/riosaude_nucleo_bi

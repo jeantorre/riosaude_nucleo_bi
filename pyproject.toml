@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "riosaude-nucleo-bi"
+version = "0.1.0"
+description = ""
+authors = ["jeantorre <jean.torre21@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+taskipy = "^1.14.1"
+mkdocs = "^1.6.1"
+mkdocs-material = "^9.5.49"
+mkdocs-mermaid2-plugin = "^1.2.1"
+mkdocstrings-python = "^1.13.0"
+ignr = "^2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.taskipy.tasks]
+doc = "mkdocs serve"
