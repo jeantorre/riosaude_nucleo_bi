@@ -13,6 +13,9 @@ theme:
   name: material
   language: pt-BR
   logo: src/logo-riosaude-horizontal-monocromatico.png
+  hide:
+    - navigation
+    - toc
 
 plugins:
   - mermaid2
