@@ -7,3 +7,37 @@
     background-color: #11345a;
     color: #f8f8f8;
 }
+
+.md-nav--primary .md-nav__title {
+  background-color: #11345a !important;
+  color: #f8f8f8 !important;
+}
+
+.md-nav--primary .md-nav__link {
+  color: #11345a !important;
+}
+
+.md-nav--primary .md-nav__link:hover {
+  color: #00bff2 !important;
+}
+
+.md-nav--primary .md-nav__source {
+  background-color: #11345a !important;
+  color: #f8f8f8 !important;
+}
+
+.md-content p {
+  font-size: 1em; 
+}
+
+.md-content h1 {
+  font-size: 1.75em; 
+}
+
+.md-content h2 {
+  font-size: 1.5em; 
+}
+
+.md-content h3 {
+  font-size: 1.25em; 
+}
