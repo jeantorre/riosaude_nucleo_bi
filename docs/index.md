@@ -8,7 +8,7 @@ hide:
 # Estamos transformando dados em decisões na saúde pública da cidade do Rio de Janeiro!
 
 ## **Sobre Nós**
-Somos o Núcleo de Inteligência de Negócios da DGOVI (Diretoria de Governança e Tecnologia da Informação) da RioSaúde, uma equipe dedicada a transformar dados em informações estratégicas que aprimoram a gestão e os serviços de saúde.  
+Somos o Núcleo de Inteligência de Negócios da DGOVI (Diretoria de Governança e Tecnologia da Informação) da [RioSaúde](https://riosaude.prefeitura.rio/), uma equipe dedicada a transformar dados em informações estratégicas que aprimoram a gestão e os serviços de saúde.  
 
 Utilizando tecnologias, organizamos, analisamos e interpretamos dados gerados no prontuário eletrônico do paciente, implantados nas unidades de saúde da cidade do Rio de Janeiro, oferecendo uma base sólida para a tomada de decisões estratégicas.
 
@@ -23,10 +23,23 @@ Utilizando tecnologias, organizamos, analisamos e interpretamos dados gerados no
     <div class="profile-info">
       <p><strong>Nome</strong></p>
       <h2><strong>Breno Almeida</strong></h2>
+      <div class="social-links">
+        <a href="https://www.linkedin.com/in/breno-ribeiro-almeida/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
+        </a>
+        <a href="https://github.com/brenorial" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub">
+        </a>
+        <a href="mailto:brenoalmeida.riosaude@gmail.com" target="_blank">
+          <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail">
+        </a>
+      </div>
     </div>
   </div>
   <div class="cargo_info">
-    <p>Graduado em Tecnologia da Informação com especialização em Defesa Cibernética e pós-graduado em Ciência de Dados e Big Data, pesquisador na área de Inteligência Artificial aplicada à extração de dados. Experiência com ferramentas como SQL, Python, CSS e JavaScript, utilizadas em projetos de análise de dados, automação e segurança cibernética.</p>
+    <p>Formado em Tecnologia da Informação, com especialização em Defesa Cibernética, pós-graduado em Ciência de Dados e Big Data, além de certificação profissional em Análise de Dados pela IBM,  Breno Almeida se destaca como pesquisador na área de extração e análise de dados.</p>
+    <p>Com experiência no uso de ferramentas como SQL, Python, CSS e JavaScript, usou seus conhecimentos para desenvolver e implementar projetos que integram análise de dados, automação de atividades e segurança cibernética.</p>
+    <p>Foi responsável pelo desenvolvimento de soluções para controle de contratos e processos, fornecendo um histórico detalhado e o gerenciamento eficiente de cada etapa realizada. Essa abordagem tecnológica e inovadora promoveu o aprimoramento dos processos digitais e garantiu a proteção das informações estratégicas das organizações.</p>
   </div>
 </section>
 
@@ -39,11 +52,23 @@ Utilizando tecnologias, organizamos, analisamos e interpretamos dados gerados no
     <div class="profile-info">
       <p><strong>Nome</strong></p>
       <h2><strong>Jean Torre</strong></h2>
+      <div class="social-links">
+        <a href="https://www.linkedin.com/in/jean-torre-44a27914b/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
+        </a>
+        <a href="https://github.com/jeantorre" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub">
+        </a>
+        <a href="mailto:jean.riosaude@gmail.com" target="_blank">
+          <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail">
+        </a>
+      </div>
     </div>
   </div>
   <div class="cargo_info">
-    <p>Formado em Engenheria de Produção, com pós em Ciência de Dados e Inteligência Artificial e, atualmente, se especializando em Arquitetura e Engenharia de Dados, Jean Torre foi responsável por iniciar e estabelecer o núcleo de Inteligência de Negócios da DGOVI, dando início ao maior projeto de gestão assistencial do município do Rio de Janeiro.</p>
-    <p>Com orientação voltada a dados e tendo seu foco no paciente do SUS (Sistema Único de Saúde), fez o uso de tecnologias e foi capaz de desenvolver soluções que levam transparência a população do município e a melhoria dos serviços de saúde.</p>
+    <p>Jean Torre é engenheiro de produção, com pós-graduação em Ciência de Dados e Inteligência Artificial, e atualmente está se especializando em Arquitetura e Engenharia de Dados. Ele foi responsável por criar e consolidar o núcleo de Inteligência de Negócios da DGOVI, liderando o maior projeto de gestão assistencial do município do Rio de Janeiro.</p>
+    <p>O projeto reúne informações integradas das unidades de urgência, emergência e de atendimentos ambulatoriais que compartilham o mesmo sistema de prontuário eletrônico.</p>
+    <p>Com uma abordagem centrada em dados e foco no paciente do Sistema Único de Saúde (SUS), Jean utilizou tecnologias inovadoras para desenvolver soluções que promovem maior transparência à população e contribuem para a melhoria contínua dos serviços de saúde no município.</p>
   </div>
 </section>
 
@@ -56,10 +81,24 @@ Utilizando tecnologias, organizamos, analisamos e interpretamos dados gerados no
     <div class="profile-info">
       <p><strong>Nome</strong></p>
       <h2><strong>Marlon Assis</strong></h2>
+      <div class="social-links">
+        <a href="https://www.linkedin.com/in/marlon-assis-910484192/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
+        </a>
+        <a href="https://github.com/marlonassisdv" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub">
+        </a>
+        <a href="mailto:marlonassis.riosaude@gmail.com" target="_blank">
+          <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail">
+        </a>
+      </div>
     </div>
   </div>
   <div class="cargo_info">
-    <p>Descrição da função</p>
+    <p>Formado em Análise de Sistemas e certificado em UI e UX Design, Marlon tem ampla experiência no desenvolvimento de ferramentas que aprimoram a experiência do usuário. Ele liderou a implantação de sistemas de prontuário eletrônico no SUS, otimizando processos assistenciais e contribuindo para a eficiência do atendimento público de saúde.</p>
+    <p>Durante sua atuação na RioSaúde, coordenou equipes de Qualidade em TI e foi responsável por desenvolver soluções focadas na usabilidade de sistemas. Seu trabalho promoveu maior transparência para a população do Rio de Janeiro e melhorou a experiência dos profissionais das unidades de saúde pública.</p>
+    <p>Atualmente, como <em>UX</em> e <em>UI Designer</em>, Marlon utiliza o conhecimento adquirido em Qualidade de TI e sua experiência trabalhando diretamente com profissionais assistenciais para desenvolver <em>layouts</em> intuitivos que atendem às necessidades reais dos usuários. Essa proximidade com a equipe assistencial permitiu a compreensão profunda dos fluxos e desafios do dia a dia, resultando em painéis que evidenciam inconsistências nos sistemas, promovem maior confiabilidade nos dados e transformam informações complexas em <em>insights</em> claros e acessíveis.</p> 
+    <p>Seu trabalho tem um impacto direto na melhoria da tomada de decisão dos usuários do prontuário eletrônico e na eficiência dos processos assistenciais.</p>
   </div>
 </section>
 
