@@ -1,13 +1,35 @@
 site_name: Núcleo de Inteligência de Negócios da RioSaúde
 site_author: Inteligência de Negócios da RioSaúde
-copyright: "© 2024 | Desenvolvido pela Inteligência de Negócios da RioSaúde"
+copyright: >
+  © 2024 | Desenvolvido pela Inteligência de Negócios da RioSaúde
+  <p>Onde Estamos:</p>
+      <div class="social-links-home">
+        <a href="https://www.linkedin.com/company/riosaudeoficial/posts/?feedView=all" target="_blank">
+          <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="Instagram">
+        </a>
+        <a href="https://mobile.twitter.com/riosaudeoficial" target="_blank">
+          <img src="https://img.icons8.com/?size=100&id=yoQabS8l0qpr&format=png&color=000000" alt="Twitter">
+        </a>
+        <a href="https://www.instagram.com/riosaudeoficial/" target="_blank">
+          <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram">
+        </a>
+      </div>
+  <p>Rua Dona Mariana, 48 - Botafogo, Rio de Janeiro - RJ, 22280-020</p>
 
 nav:
   - Sobre Nós: index.md
 
+extra_css:
+  - css/extra.css
+  - css/custom.css
+
 theme:
   name: material
   language: pt-BR
+  logo: src/logo-riosaude-horizontal-monocromatico.png
+  hide:
+    - navigation
+    - toc
 
 plugins:
   - mermaid2
