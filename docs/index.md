@@ -14,7 +14,7 @@ Utilizando tecnologias, organizamos, analisamos e interpretamos dados gerados no
 
 ## **Quem Somos**
 
-<section class="descricao_cargo">
+<section class="descricao_cargo" id="breno-profile">
   <h2><strong>Analista de Dados</strong></h2>
   <div class="profile-card">
     <div class="profile-image">
@@ -37,13 +37,13 @@ Utilizando tecnologias, organizamos, analisamos e interpretamos dados gerados no
     </div>
   </div>
   <div class="cargo_info">
-    <p>Formado em Tecnologia da Informação, com especialização em Defesa Cibernética, pós-graduado em Ciência de Dados e Big Data, além de certificação profissional em Análise de Dados pela IBM,  Breno Almeida se destaca como pesquisador na área de extração e análise de dados.</p>
+    <p>Graduado em Defesa Cibernética, pós-graduado em Ciência de Dados e Big Data, cursando especialização em Denvolvimento Full Stack pela PUC-RIO, além de certificação profissional em Análise de Dados, Breno Almeida se destaca como pesquisador na área de extração e análise de dados.</p>
     <p>Com experiência no uso de ferramentas como SQL, Python, CSS e JavaScript, usou seus conhecimentos para desenvolver e implementar projetos que integram análise de dados, automação de atividades e segurança cibernética.</p>
     <p>Foi responsável pelo desenvolvimento de soluções para controle de contratos e processos, fornecendo um histórico detalhado e o gerenciamento eficiente de cada etapa realizada. Essa abordagem tecnológica e inovadora promoveu o aprimoramento dos processos digitais e garantiu a proteção das informações estratégicas das organizações.</p>
   </div>
 </section>
 
-<section class="descricao_cargo">
+<section class="descricao_cargo" id="jean-profile">
   <h2><strong>Engenheiro e Arquiteto de Dados</strong></h2>
   <div class="profile-card">
     <div class="profile-image">
@@ -72,7 +72,7 @@ Utilizando tecnologias, organizamos, analisamos e interpretamos dados gerados no
   </div>
 </section>
 
-<section class="descricao_cargo">
+<section class="descricao_cargo" id="marlon-profile">
   <h2><strong>UI Designer & UX Designer</strong></h2>
   <div class="profile-card">
     <div class="profile-image">
