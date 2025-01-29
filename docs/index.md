@@ -18,7 +18,7 @@ Utilizando tecnologias, organizamos, analisamos e interpretamos dados gerados no
   <h2><strong>Analista de Dados & Desenvolvedor Full Stack</strong></h2>
   <div class="profile-card">
     <div class="profile-image">
-      <img src="/src/breno.png" alt="Foto Breno Almeida">
+      <img src="src/breno.png" alt="Foto Breno Almeida">
     </div>
     <div class="profile-info">
       <p><strong>Nome</strong></p>
@@ -47,7 +47,7 @@ Utilizando tecnologias, organizamos, analisamos e interpretamos dados gerados no
   <h2><strong>Desenvolvedor Full Stack</strong></h2>
   <div class="profile-card">
     <div class="profile-image">
-      <img src="/src/davi.jpeg" alt="Foto Davi Braz">
+      <img src="src/davi.jpeg" alt="Foto Davi Braz">
     </div>
     <div class="profile-info">
       <p><strong>Nome</strong></p>
@@ -72,10 +72,10 @@ Utilizando tecnologias, organizamos, analisamos e interpretamos dados gerados no
 
 
 <section class="descricao_cargo" id="jean-profile">
-  <h2><strong>Engenheiro e Arquiteto de Dados</strong></h2>
+  <h2><strong>Coordenador do Núcleo Inteligência de Dados & Negócios</strong></h2>
   <div class="profile-card">
     <div class="profile-image">
-      <img src="/src/jean.png" alt="Foto Jean Torre">
+      <img src="src/jean.png" alt="Foto Jean Torre">
     </div>
     <div class="profile-info">
       <p><strong>Nome</strong></p>
@@ -104,7 +104,7 @@ Utilizando tecnologias, organizamos, analisamos e interpretamos dados gerados no
   <h2><strong>UI Designer & UX Designer</strong></h2>
   <div class="profile-card">
     <div class="profile-image">
-      <img src="/src/marlon.png" alt="Foto Marlon Assis">
+      <img src="src/marlon.png" alt="Foto Marlon Assis">
     </div>
     <div class="profile-info">
       <p><strong>Nome</strong></p>
