@@ -94,7 +94,7 @@ Utilizando tecnologias, organizamos, analisamos e interpretamos dados gerados no
     </div>
   </div>
   <div class="cargo_info">
-    <p>Jean Torre é engenheiro de produção, com pós-graduação em Ciência de Dados e Inteligência Artificial, e atualmente está se especializando em Arquitetura e Engenharia de Dados. Ele foi responsável por criar e consolidar o núcleo de Inteligência de Negócios da DGOVI, liderando o maior projeto de gestão assistencial do município do Rio de Janeiro.</p>
+    <p>Jean Torre é Engenheiro de Produção, com pós-graduação em Ciência de Dados e Inteligência Artificial, e atualmente está se especializando em Arquitetura e Engenharia de Dados. Ele foi responsável por criar e consolidar o núcleo de Inteligência de Negócios da DGOVI, liderando o maior projeto de gestão assistencial do município do Rio de Janeiro.</p>
     <p>O projeto reúne informações integradas das unidades de urgência, emergência e de atendimentos ambulatoriais que compartilham o mesmo sistema de prontuário eletrônico.</p>
     <p>Com uma abordagem centrada em dados e foco no paciente do Sistema Único de Saúde (SUS), Jean utilizou tecnologias inovadoras para desenvolver soluções que promovem maior transparência à população e contribuem para a melhoria contínua dos serviços de saúde no município.</p>
   </div>
