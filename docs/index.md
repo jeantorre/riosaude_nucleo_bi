@@ -15,7 +15,7 @@ Utilizando tecnologias, organizamos, analisamos e interpretamos dados gerados no
 ## **Quem Somos**
 
 <section class="descricao_cargo" id="breno-profile">
-  <h2><strong>Analista de Dados</strong></h2>
+  <h2><strong>Analista de Dados & Desenvolvedor Full Stack</strong></h2>
   <div class="profile-card">
     <div class="profile-image">
       <img src="src/breno.png" alt="Foto Breno Almeida">
@@ -43,8 +43,36 @@ Utilizando tecnologias, organizamos, analisamos e interpretamos dados gerados no
   </div>
 </section>
 
+<section class="descricao_cargo" id="davi-profile">
+  <h2><strong>Desenvolvedor Full Stack</strong></h2>
+  <div class="profile-card">
+    <div class="profile-image">
+      <img src="src/davi.jpeg" alt="Foto Davi Braz">
+    </div>
+    <div class="profile-info">
+      <p><strong>Nome</strong></p>
+      <h2><strong>Davi Braz</strong></h2>
+      <div class="social-links">
+        <a href="https://github.com/DaviBrazz" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub">
+        </a>
+        <a href="mailto:davibraz.riosaude@gmail.com" target="_blank">
+          <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail">
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="cargo_info">
+    <p>Futuro Engenheiro de Software, Davi é um desenvolvedor Full Stack com experiência na criação e manutenção de aplicações web responsivas e eficientes. Se destaca pela implementação de lógicas robustas no <em>backend</em>, utilizando frameworks modernos para garantir soluções escaláveis e de alto desempenho.</p>
+    <p>Com sólida formação em modelagem, otimização e integração de bancos de dados SQL e NoSQL, Davi possui expertise na configuração, desenvolvimento e consumo de APIs. Além disso, aplica técnicas avançadas de visão computacional para automação de processos, desenvolvendo soluções inovadoras baseadas em processamento de imagens e reconhecimento de padrões.</p>
+    <p>Entre seus projetos, destacam-se a criação de sistemas de reconhecimento facial e <em>softwares</em> de controle de acesso para ambientes corporativos e de segurança. No Hospital Municipal Rocha Faria, desempenhou um papel fundamental no desenvolvimento de ferramentas como o sistema online de gestão de ramais, o sistema de passagem de plantão e o formulário de dispensação de produtos da rouparia. Sua atuação contribuiu diretamente para a modernização e otimização de processos internos, promovendo maior eficiência operacional e inovação no uso da tecnologia para resolver desafios complexos.</p>
+  </div>
+
+</section>
+
+
 <section class="descricao_cargo" id="jean-profile">
-  <h2><strong>Engenheiro e Arquiteto de Dados</strong></h2>
+  <h2><strong>Coordenador do Núcleo Inteligência de Dados & Negócios</strong></h2>
   <div class="profile-card">
     <div class="profile-image">
       <img src="src/jean.png" alt="Foto Jean Torre">
@@ -66,7 +94,7 @@ Utilizando tecnologias, organizamos, analisamos e interpretamos dados gerados no
     </div>
   </div>
   <div class="cargo_info">
-    <p>Jean Torre é engenheiro de produção, com pós-graduação em Ciência de Dados e Inteligência Artificial, e atualmente está se especializando em Arquitetura e Engenharia de Dados. Ele foi responsável por criar e consolidar o núcleo de Inteligência de Negócios da DGOVI, liderando o maior projeto de gestão assistencial do município do Rio de Janeiro.</p>
+    <p>Jean Torre é Engenheiro de Produção, com pós-graduação em Ciência de Dados e Inteligência Artificial, e atualmente está se especializando em Arquitetura e Engenharia de Dados. Ele foi responsável por criar e consolidar o núcleo de Inteligência de Negócios da DGOVI, liderando o maior projeto de gestão assistencial do município do Rio de Janeiro.</p>
     <p>O projeto reúne informações integradas das unidades de urgência, emergência e de atendimentos ambulatoriais que compartilham o mesmo sistema de prontuário eletrônico.</p>
     <p>Com uma abordagem centrada em dados e foco no paciente do Sistema Único de Saúde (SUS), Jean utilizou tecnologias inovadoras para desenvolver soluções que promovem maior transparência à população e contribuem para a melhoria contínua dos serviços de saúde no município.</p>
   </div>
