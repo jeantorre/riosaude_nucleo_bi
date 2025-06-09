@@ -21,12 +21,13 @@ jobs:
       - name: Clonar repo B (contrato_gestao) via SSH
         run: |
           git clone git@github.com:jeantorre/riosaude_contrato_gestao.git temp-repo
+          cd temp-repo
+          git checkout dev-torrej
+          cd ..
           cp docs/index.md temp-repo/docs/about.md
           cd temp-repo
-          git fetch origin dev-torrej
-          git checkout dev-torrej
           git config user.name "jeantorre"
           git config user.email "jean.torre21@gmail.com"
           git add .
           git commit -m "atualizacao documentacao sobre nos" || echo "sem commitar"
-          git push
+          git push origin dev-torrej
