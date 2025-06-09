@@ -1,0 +1,23 @@
+name: Sincronizacao de Documentos
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  sync-docs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo A (riosaude_nucleo_bi)
+        uses: actions/checkout@v3
+
+      - name: Copiando 'index.md' para Repo B (riosaude_contrato_gestao)
+        run: |
+          git clone https://x-access-token:${{ secrets.TOKEN }}@github.com/jeantorre/riosaude_contrato_gestao.git temp-repo
+          cp docs/index.md temp-repo/docs/about.md
+          cd temp-repo
+          git config user.name "jeantorre"
+          git config user.email "jean.torre21@gmail.com"
+          git add .
+          git commit -m "atualizacao documentacao sobre nos" || echo "sem commitar"
+          git push
