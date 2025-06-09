@@ -20,4 +20,5 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.taskipy.tasks]
-doc = "mkdocs serve"
+docs = "mkdocs serve"
+deploy = "mkdocs gh-deploy"
