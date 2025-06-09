@@ -7,12 +7,12 @@ hide:
 
 # Estamos transformando dados em decisões na saúde pública da cidade do Rio de Janeiro!
 
-## **Sobre Nós**
+## **Sobre Nós** 
 Somos o Núcleo de Inteligência de Negócios da DGOVI (Diretoria de Governança e Tecnologia da Informação) da [RioSaúde](https://riosaude.prefeitura.rio/), uma equipe dedicada a transformar dados em informações estratégicas que aprimoram a gestão e os serviços de saúde.  
 
 Utilizando tecnologias, organizamos, analisamos e interpretamos dados gerados no prontuário eletrônico do paciente, implantados nas unidades de saúde da cidade do Rio de Janeiro, oferecendo uma base sólida para a tomada de decisões estratégicas.
 
-## **Quem Somos**
+## **Quem Somos na RioSaúde**
 
 <section class="descricao_cargo" id="breno-profile">
   <h2><strong>Analista de Dados & Desenvolvedor Full Stack</strong></h2>
