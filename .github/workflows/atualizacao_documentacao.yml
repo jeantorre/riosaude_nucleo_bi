@@ -27,4 +27,4 @@ jobs:
           git config user.email "jean.torre21@gmail.com"
           git add .
           git commit -m "atualizacao documentacao sobre nos" || echo "sem commitar"
-          git push
+          git push origin dev-torrej
