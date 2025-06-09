@@ -1,21 +1,30 @@
-steps:
-  - name: Checkout Repo A (riosaude_nucleo_bi)
-    uses: actions/checkout@v3
+name: Sincronizacao de Documentos
 
-  - name: Setup SSH Key
-    run: |
-      mkdir -p ~/.ssh
-      echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
-      chmod 600 ~/.ssh/id_rsa
-      ssh-keyscan github.com >> ~/.ssh/known_hosts
+on:
+  push:
+    branches: [main]
 
-  - name: Clonar repo B (contrato_gestao) via SSH
-    run: |
-      git clone git@github.com:jeantorre/riosaude_contrato_gestao.git temp-repo
-      cp docs/index.md temp-repo/docs/about.md
-      cd temp-repo
-      git config user.name "jeantorre"
-      git config user.email "jean.torre21@gmail.com"
-      git add .
-      git commit -m "atualizacao documentacao sobre nos" || echo "sem commitar"
-      git push
+jobs:
+  sync-docs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo A (riosaude_nucleo_bi)
+        uses: actions/checkout@v3
+    
+      - name: Setup SSH Key
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
+    
+      - name: Clonar repo B (contrato_gestao) via SSH
+        run: |
+          git clone git@github.com:jeantorre/riosaude_contrato_gestao.git temp-repo
+          cp docs/index.md temp-repo/docs/about.md
+          cd temp-repo
+          git config user.name "jeantorre"
+          git config user.email "jean.torre21@gmail.com"
+          git add .
+          git commit -m "atualizacao documentacao sobre nos" || echo "sem commitar"
+          git push
