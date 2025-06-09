@@ -11,9 +11,9 @@ jobs:
       - name: Checkout Repo A (riosaude_nucleo_bi)
         uses: actions/checkout@v3
 
-      - name: Copiando 'index.md' para Repo B (riosaude_contrato_gestao)
+      - name: Clonar repo B (contrato_gestao)
         run: |
-          git clone https://x-access-token:${{ secrets.TOKEN }}@github.com/jeantorre/riosaude_contrato_gestao.git temp-repo
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/jeantorre/riosaude_contrato_gestao.git temp-repo
           cp docs/index.md temp-repo/docs/about.md
           cd temp-repo
           git config user.name "jeantorre"
