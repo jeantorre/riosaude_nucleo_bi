@@ -1,9 +1,6 @@
 name: ci-deploy_github_pages 
 
 on:
-  pull_request:
-    branches:
-      - main
   push:
     branches:
       - main
