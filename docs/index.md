@@ -1,6 +1,5 @@
 ---
 hide:
-  - navigation
   - toc
   - path
 ---
@@ -12,7 +11,7 @@ Somos o Núcleo de Inteligência de Negócios da DGOVI (Diretoria de Governança
 
 Utilizando tecnologias, organizamos, analisamos e interpretamos dados gerados no prontuário eletrônico do paciente, implantados nas unidades de saúde da cidade do Rio de Janeiro, oferecendo uma base sólida para a tomada de decisões estratégicas.
 
-## **Quem Somos na RioSaúde**
+## **Quem Somos**
 
 <section class="descricao_cargo" id="breno-profile">
   <h2><strong>Analista de Dados & Desenvolvedor Full Stack</strong></h2>
